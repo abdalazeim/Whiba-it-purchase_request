@@ -1,14 +1,14 @@
-# Copyright 2018-2019 ForgeFlow, S.L.
+# Copyright 2024 Whiba Holding
 # License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl-3.0).
 
 {
-    "name": "Purchase Request",
-    "author": "ForgeFlow, Odoo Community Association (OCA)",
+    "name": "Purchase Request - Whiba Holding",
+    "author": "Whiba Holding",
     "version": "17.0.1.0.0",
     "summary": "Use this module to have notification of requirements of "
     "materials and/or external services and keep track of such "
     "requirements.",
-    "website": "https://github.com/OCA/purchase-workflow",
+    "website": "https://whiba-holding.com",
     "category": "Purchase Management",
     "depends": ["purchase_stock"],
     "data": [
